@@ -16,4 +16,6 @@ c.cipherHash("message", "password");
 
 c.UnCipherHash("30A1Dd4XQawUdz", "password");
 
+>>> "message"
+
 ```
