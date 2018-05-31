@@ -1,6 +1,12 @@
 # cipherHash
 Custom Encryption Algrothim Used in IXO.js
 
+# How to Install
+
+```
+npm i cipherHash
+```
+
 # How to Use
 ``` javascript
 // Load the module
