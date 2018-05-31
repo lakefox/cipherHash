@@ -12,6 +12,6 @@ c.cipherHash("message", "password");
 
 // Decrypt a String
 
-c.cipherHash("message", "password");
+c.UnCipherHash("message", "password");
 
 ```
