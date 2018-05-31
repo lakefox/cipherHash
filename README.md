@@ -16,7 +16,7 @@ c.cipherHash("message", "password");
 
 c.UnCipherHash("30A1Dd4XQawUdz", "password");
 
->>> "message"'
+>>> "message"
 
 // Get a Base64 Hash of a String
 
