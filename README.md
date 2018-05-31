@@ -4,13 +4,13 @@ Custom Encryption Algrothim Used in IXO.js
 # How to Install
 
 ```
-npm i cipherHash
+npm i cipherhash
 ```
 
 # How to Use
 ``` javascript
 // Load the module
-var c = require("cipherHash");
+var c = require("cipherhash");
 
 // Encrypt a String
 
