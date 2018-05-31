@@ -10,6 +10,8 @@ var c = require("cipherHash");
 
 c.cipherHash("message", "password");
 
+>>> 
+  
 // Decrypt a String
 
 c.UnCipherHash("message", "password");
