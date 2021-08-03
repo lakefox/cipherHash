@@ -1,5 +1,5 @@
 # cipherHash
-Custom Encryption Algrothim Used in IXO.js
+Custom Encryption Algrothim
 
 # How to Install
 
