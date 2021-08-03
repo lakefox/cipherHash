@@ -29,6 +29,7 @@ function hex2a(hexx) {
     return str;
 }
 function genPassPhrase(length, passPhrase) {
+	passPhrase = hash(passPhrase);
 	while (length > passPhrase.length) {
 	    passPhrase = passPhrase + hash(passPhrase);
 	}
